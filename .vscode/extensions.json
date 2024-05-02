@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
-    "davidanson.vscode-markdownlint"
+    "davidanson.vscode-markdownlint",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
