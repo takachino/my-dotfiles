@@ -1,7 +1,7 @@
 # Do everything.
-all: init link defaults brew
+all: init link defaults brew update
 
-usually: link brew
+usually: link brew update
 
 # Set initial preference.
 init:
@@ -25,4 +25,10 @@ defaults:
 brew:
 	@echo "\033[0;34mRun brew.sh\033[0m"
 	@.bin/brew.sh
+	@echo "\033[0;32mDone.\033[0m"
+
+# Install macOS applications.
+update:
+	@echo "\033[0;34mRun update.sh\033[0m"
+	@.bin/update.sh
 	@echo "\033[0;32mDone.\033[0m"
