@@ -11,7 +11,6 @@ fi
 #
 # ====================
 
-
 # Disable auto-capitalization
 defaults write NSGlobalDomain NSAutomaticCapitalizationEnabled -bool false
 
@@ -21,7 +20,6 @@ defaults write NSGlobalDomain NSAutomaticCapitalizationEnabled -bool false
 #
 # ====================
 
-
 # Disable animation at application launch
 defaults write com.apple.dock launchanim -bool false
 
@@ -30,7 +28,6 @@ defaults write com.apple.dock launchanim -bool false
 # Finder
 #
 # ====================
-
 
 # Disable animation
 defaults write com.apple.finder DisableAllAnimations -bool true
