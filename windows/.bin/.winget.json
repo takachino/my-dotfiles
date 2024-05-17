@@ -7,22 +7,22 @@
 			"Packages" :
 			[
 				{
-					"PackageIdentifier" : "Canonical.Ubuntu.2204"
-				},
-				{
-					"PackageIdentifier" : "Docker.DockerDesktop"
-				},
-				{
 					"PackageIdentifier" : "Git.Git"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+				},
+				{
 					"PackageIdentifier" : "gerardog.gsudo"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.2204"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
@@ -41,6 +41,42 @@
 				},
 				{
 					"PackageIdentifier": "voidtools.Everything.Cli"
+				},
+				{
+					"PackageIdentifier": "Amazon.Kindle"
+				},
+				{
+					"PackageIdentifier": "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier": "calibre.calibre"
+				},
+				{
+					"PackageIdentifier": "Google.GoogleDrive"
+				},
+				{
+					"PackageIdentifier": "Box.Box"
+				},
+				{
+					"PackageIdentifier": "Dropbox.Dropbox"
+				},
+				{
+					"PackageIdentifier": "Nextcloud.NextcloudDesktop"
+				},
+				{
+					"PackageIdentifier": "Volta.Volta"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3.11"
+				},
+				{
+					"PackageIdentifier": "Gyan.FFmpeg"
+				},
+				{
+					"PackageIdentifier": "SlackTechnologies.Slack"
+				},
+				{
+					"PackageIdentifier": "Salesforce.sfdx-cli"
 				}
 			],
 			"SourceDetails" :
