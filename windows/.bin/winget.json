@@ -95,6 +95,9 @@
 				},
 				{
 					"PackageIdentifier": "Amazon.Kindle"
+				},
+				{
+					"PackageIdentifier": "jdx.mise"
 				}
 			],
 			"SourceDetails" :
